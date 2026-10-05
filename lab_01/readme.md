@@ -48,6 +48,7 @@ mkdir eventhub_project
 cd eventhub_project
 
 # Stwórz wirtualne środowisko w podfolderze
+python -m venv .venv
 # lub poprzez kreatora w wybranym przez Ciebie IDE
 ```
 
